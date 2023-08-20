@@ -1,0 +1,23 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size : 20px;
+}
+
+h1{
+    font-size: 50px;
+    margin: 50px;
+}
+
+.menu2 {
+    font-size: 8 px;
+    margin: 0px 100px;
+    margin-left: 450px;
+}
+
+
+#img2{
+    width: 400px;
+    margin-left: 38%;
+}
+
+}
